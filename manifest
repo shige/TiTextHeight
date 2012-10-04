@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: calc text height module
+author: Tadashi Shigeoka
+license: MIT License
+copyright: Copyright (c) 2012 by Tadashi Shigeoka
+
+
+# these should not be edited
+name: titextheight
+moduleid: com.bakorer.titextheight
+guid: cf0a94bf-d09c-4e06-acd7-0693a6c3f1ab
+platform: iphone
+minsdk: 2.0.1.GA2
